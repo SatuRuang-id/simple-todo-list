@@ -17,7 +17,7 @@
         }
 
         .container {
-            width: 60vw;
+            width: 60vw;=
             background-color: white;
             padding: 20px;
             border-radius: 5px;
